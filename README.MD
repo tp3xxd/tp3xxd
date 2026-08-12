@@ -6,7 +6,7 @@
 # `tp3x` — homelab & infrastructure enthusiast
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
+╭─────────────────────────────────────────────────────────────-─╮
 │  $ ping -c 1 redacted-node                                    │
 │  PING redacted-node.local (REDACTED) 56(84) bytes of data.    │
 │  64 bytes from REDACTED: icmp_seq=1 ttl=64 time=0.0xx ms      │
