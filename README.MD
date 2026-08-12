@@ -10,12 +10,12 @@
 │  $ ping -c 1 redacted-node                                    │
 │  PING redacted-node.local (REDACTED) 56(84) bytes of data.    │
 │  64 bytes from REDACTED: icmp_seq=1 ttl=64 time=0.0xx ms      │
-│                                                              │
+│                                                               │
 │  --- redacted-node ping statistics ---                        │
-│  1 transmitted, 1 received, 0% packet loss                   │
-│                                                              │
-│  [ CLUSTER ]  STATUS: ONLINE  •  3 NODES AVAILABLE           │
-╰──────────────────────────────────────────────────────────────╯
+│  1 transmitted, 1 received, 0% packet loss                    │
+│                                                               │
+│  [ CLUSTER ]  STATUS: ONLINE  •  3 NODES AVAILABLE            │
+╰──────────────────────────────────────────────────────────────-╯
 ```
 
 *Stavím, provozuji a vylepšuji vlastní infrastrukturu — od virtualizace přes kontejnery až po služby pro herní servery.*
